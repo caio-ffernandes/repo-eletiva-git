@@ -1,6 +1,7 @@
 <?php
 
     echo "VAI CORINTHIANS!!!";
-    echo "OI"
+    echo "OI";
+    echo "Sabooooor OI";
     
 ?>
